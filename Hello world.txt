@@ -1,2 +1,3 @@
-alert ('Hello world!');
-alert('Hi!');
+alert ('Hello world!')!;
+alert('Hi!')!;
+hello my dear friend!;

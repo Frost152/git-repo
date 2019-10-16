@@ -1,2 +1,2 @@
 alert ('Hello world!')
-alert('Hi')
+alert('Hi!')
